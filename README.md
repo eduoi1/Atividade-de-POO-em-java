@@ -9,4 +9,4 @@ Criar um programa capaz de:
 - Listar objetos emprestados e com quem está;
 - Listar objetos disponíveis;
 Deve ser feito em Java e inteiramente orientado a objeto.
-Obs.: Não deve ter banco de dados, tudo deve ser armazenado em vetores na memória, ao encerra o programa, tudo se perde.
+Obs.: Não deve ter banco de dados, tudo deve ser armazenado em vetores na memória, ao encerra o programa, tudo se perde...
